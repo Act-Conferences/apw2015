@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="Content-Language" content="en">
 
-    <title>[%- IF title -%][% title  %] |[% END %] Austrian Perl Workshop 2013 | 2nd and 3rd November</title>
+    <title>[%- IF title -%][% title  %] |[% END %] Austrian Perl Workshop 2015 | 23rd and 24th October</title>
 
     <!-- CSS stylesheets -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -51,8 +51,8 @@
   <div class="row" id="footer">
     <div class="col-md-3"></div>
     <div class="col-md-8">
-      © 2003-2013 Verein 'Vienna.pm - Verein zur Förderung der Programmiersprache Perl'.<br>
-      To contact the organisers send an email to apw2013 @ plix.at
+      © 2003-2015 Verein 'Vienna.pm - Verein zur Förderung der Programmiersprache Perl'.<br>
+      To contact the organisers send an email to nine@detonation.org
       <br>
       <a href="[% make_uri('impressum.html') %]">
         <t>
