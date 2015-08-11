@@ -1,15 +1,6 @@
 <h2><t><de>Sponsoren</de><en>Sponsors</en></t></h2>
 
 <div>
-<a href="http://ncm.at"><img src="[% make_uri_info('images','ncm.png') %]" alt="ncm.at"></a><br/>
-</div>
-
-
-<div>
-<a href="http://www.perl-magazin.de"><img src="[% make_uri_info('images','foo.gif') %]" alt="$foo Perl Magazin"></a><br/>
-</div>
-
-<div>
 <h4><a href="[% make_uri_info('sponsors.html') %]"><t><de>Sponsor werden!</de><en>Become a sponsor!</en></t></a></h4>
 </div>
 
